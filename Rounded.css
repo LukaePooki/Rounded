@@ -11,22 +11,3 @@
 .members-3WRCEx /* members list */ {
 	border-radius: 0 0 var(--roundness) var(--roundness);
 }
-
-/* rearrange toolbar */
-.iconWrapper-2awDjA[aria-label='Help'] {
-	display: none;
-}
-.iconWrapper-2awDjA[aria-label*='Member List'] {
-	order: 1;
-}
-.search-39IXmY {
-	order: 1;
-	margin-left: 30px;
-}
-.searchBar-jGtisZ {
-	width: 208px !important;
-	padding: 0px 2px;
-}
-.searchResultsWrap-5RVOkx {
-	width: 470px;
-}
